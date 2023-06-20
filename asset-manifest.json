@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ttp-assignment8-giphyapi/static/css/main.c715ff3b.css",
+    "main.css": "/ttp-assignment8-giphyapi/static/css/main.2dcba853.css",
     "main.js": "/ttp-assignment8-giphyapi/static/js/main.8313dcdf.js",
     "static/js/496.6346ae7d.chunk.js": "/ttp-assignment8-giphyapi/static/js/496.6346ae7d.chunk.js",
     "index.html": "/ttp-assignment8-giphyapi/index.html",
-    "main.c715ff3b.css.map": "/ttp-assignment8-giphyapi/static/css/main.c715ff3b.css.map",
+    "main.2dcba853.css.map": "/ttp-assignment8-giphyapi/static/css/main.2dcba853.css.map",
     "main.8313dcdf.js.map": "/ttp-assignment8-giphyapi/static/js/main.8313dcdf.js.map",
     "496.6346ae7d.chunk.js.map": "/ttp-assignment8-giphyapi/static/js/496.6346ae7d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c715ff3b.css",
+    "static/css/main.2dcba853.css",
     "static/js/main.8313dcdf.js"
   ]
 }
