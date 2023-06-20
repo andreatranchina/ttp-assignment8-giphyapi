@@ -25,10 +25,13 @@ body{
   border: 3px outset black;
   border-radius: 0.8rem;
   font-size: 1rem;
+  transition: 500ms ease;
 }
 
 .search-input:focus{
+  transition: 500ms ease;
   outline: none;
+  box-shadow: rgb(208, 160, 168) 3px 3px 3px;
 }
 
 .btn{
@@ -39,6 +42,7 @@ body{
   margin: 2px;
   font-weight: 700;
   border-radius: 0.8rem;
+  transition: ease 500ms;
 }
 
 .btn-search{
@@ -50,11 +54,14 @@ body{
   font-weight: 700;
   border-radius: 0.8rem;
   font-size: 0.8rem;
+  transition: ease 500ms;
 }
 
 .btn:hover{
   cursor:pointer;
   border: 3px inset black;
+  box-shadow: rgb(208, 160, 168) 3px 3px 3px;
+  transition: ease 500ms;
 }
 
 .btn:active{
@@ -64,6 +71,8 @@ body{
 .btn-search:hover{
   cursor:pointer;
   border: 3px inset black;
+  box-shadow: rgb(208, 160, 168) 3px 3px 3px;
+  transition: ease 500ms;
 }
 
 .btn-search:active{
@@ -74,8 +83,22 @@ body{
   filter: grayscale(1);
 }
 
+.radio:hover{
+  cursor: pointer;
+}
+
+.radio{
+  margin: 10px;
+}
+
 img{
   margin: 5px;
   border-radius: 1rem;
   border: 3px outset black;
+  transition: ease 500ms;
+}
+
+img:hover{
+  transform: rotate(15deg);
+  transition: ease 500ms;
 }
